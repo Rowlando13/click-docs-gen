@@ -2,6 +2,8 @@
 
 Utilities for automatically documenting [Click] applications.
 
+!!For click internal use only!!
+
 [Click]: https://click.palletsprojects.com/
 
 ## Sphinx directives
